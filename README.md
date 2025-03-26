@@ -1,4 +1,6 @@
-# 🌍 Assetra – Tokenize. Simplify. Invest.
+
+# Assetra 
+## Tokenize. Simplify. Invest. -- A Project Powered by Hedera
 
 Assetra is a blockchain-based platform that makes financial investing accessible to everyone.  
 This is our open-source landing page, built using **Next.js**, **React (TSX)**, **Framer Motion**, and **React Icons**.
@@ -86,8 +88,11 @@ yarn lint
 👥 Contributors
 Built with ❤️ by the Assetra Team:
 
-JaniceGathoga
-SimonMurray
+@yourname
+
+@teammember2
+
+@teammember3
 
 Feel free to fork, build on, or contribute.
 
