@@ -1,34 +1,35 @@
 
-# Assetra 
-## Tokenize. Simplify. Invest. -- A Project Powered by Hedera
+#  Assetra  
+**Tokenize. Simplify. Invest.**  
+*A project powered by Hedera*
 
 Assetra is a blockchain-based platform that makes financial investing accessible to everyone.  
-This is our open-source landing page, built using **Next.js**, **React (TSX)**, **Framer Motion**, and **React Icons**.
+
 
 ---
 
 ## 🚀 Tech Stack
 
-- **Next.js** – React framework for server-side rendering
-- **React (TSX)** – TypeScript for type safety
-- **Framer Motion** – Smooth animations
-- **React Icons** – Scalable icon support
-- **Tailwind CSS** (optional, if used)
+- **Next.js** – React framework for server-side rendering  
+- **React (TSX)** – TypeScript support for better development  
+- **Framer Motion** – Smooth animations and transitions  
+- **React Icons** – Easy, scalable icon support  
+- **Tailwind CSS** *(optional)* – Utility-first styling
 
 ---
 
 ## ✅ Prerequisites
 
-Make sure you have the following installed:
+Before you begin, make sure you have the following installed:
 
-- **Node.js** (v16 or later)
-- **npm** or **yarn**
+- [Node.js](https://nodejs.org/) (v16 or later)  
+- [npm](https://www.npmjs.com/) or [Yarn](https://yarnpkg.com/)
 
 ---
 
 ## 📦 Installation
 
-Clone the repository and install dependencies:
+Clone the repository and install the dependencies:
 
 ```bash
 git clone https://github.com/your-username/assetra-landing.git
@@ -45,24 +46,11 @@ Edit
 npm run dev
 # or
 yarn dev
-Your project will be running at:
+The project will run at:
 👉 http://localhost:3000
 
-🧪 Development
-To start the development server:
-
-bash
-Copy
-Edit
-npm run dev
-# or
-yarn dev
-Your project will be running at:
-👉 http://localhost:3000
-
----
 🛠️ Build for Production
-To create an optimized production build:
+To build and run a production version:
 
 bash
 Copy
@@ -73,25 +61,24 @@ npm start
 yarn build
 yarn start
 🚀 Deployment (Vercel Recommended)
-Deploy easily using Vercel:
+Deploy your project easily on Vercel:
 
 Push your code to GitHub
 
-Go to vercel.com, sign in with GitHub
+Go to vercel.com and log in with GitHub
 
 Click “New Project”
 
 Select the Assetra repo
 
-Configure settings if needed (Next.js is auto-detected)
+Configure (Next.js is detected automatically)
 
 Click “Deploy”
 
-That’s it! You’ll get a live URL instantly. 🎉
+🎉 You’ll get a live URL instantly!
 
----
 🧼 Linting & Formatting
-To run linter:
+To check code quality using ESLint:
 
 bash
 Copy
@@ -99,28 +86,22 @@ Edit
 npm run lint
 # or
 yarn lint
-
----
-
 👥 Contributors
 Built with ❤️ by the Assetra Team:
 
 Janice Gathoga
+
 Simon Murray
 
 Feel free to fork, build on, or contribute!
 
----
 👐 Open Source
 This project is open-source under the MIT License.
-You're free to use, modify, and share it. We welcome pull requests, issues, and community contributions.
+You are free to use, modify, and share it. Contributions are welcome via pull requests or issues.
 
---- 
 📫 Contact
-Have questions or ideas?
+Have questions, feedback, or partnership ideas?
 📩 Email us at: janicegathoga@gmail.com
-
----
 
 Invest smart. Own with confidence.
 Build your financial future — with Assetra.
