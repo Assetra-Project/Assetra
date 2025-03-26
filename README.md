@@ -48,6 +48,19 @@ yarn dev
 Your project will be running at:
 👉 http://localhost:3000
 
+🧪 Development
+To start the development server:
+
+bash
+Copy
+Edit
+npm run dev
+# or
+yarn dev
+Your project will be running at:
+👉 http://localhost:3000
+
+---
 🛠️ Build for Production
 To create an optimized production build:
 
@@ -76,6 +89,7 @@ Click “Deploy”
 
 That’s it! You’ll get a live URL instantly. 🎉
 
+---
 🧼 Linting & Formatting
 To run linter:
 
@@ -85,24 +99,28 @@ Edit
 npm run lint
 # or
 yarn lint
+
+---
+
 👥 Contributors
 Built with ❤️ by the Assetra Team:
 
-@yourname
+Janice Gathoga
+Simon Murray
 
-@teammember2
+Feel free to fork, build on, or contribute!
 
-@teammember3
-
-Feel free to fork, build on, or contribute.
-
+---
 👐 Open Source
 This project is open-source under the MIT License.
 You're free to use, modify, and share it. We welcome pull requests, issues, and community contributions.
 
+--- 
 📫 Contact
 Have questions or ideas?
-Email us at: team@assetra.xyz
-Or connect on LinkedIn
+📩 Email us at: janicegathoga@gmail.com
 
-Invest smart. Own with confidence. Build your financial future — with Assetra.
+---
+
+Invest smart. Own with confidence.
+Build your financial future — with Assetra.
