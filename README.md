@@ -77,16 +77,18 @@ Click “Deploy”
 
 🎉 You’ll get a live URL instantly!
 
-🧼 Linting & Formatting
+#🧼 Linting & Formatting
 To check code quality using ESLint:
 
-bash
 Copy
 Edit
 npm run lint
 # or
 yarn lint
-👥 Contributors
+
+---
+
+##👥 Contributors
 Built with ❤️ by the Assetra Team:
 
 Janice Gathoga
