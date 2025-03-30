@@ -1,5 +1,5 @@
-
-#  Assetra  
+#  Assetra 
+![image alt](https://github.com/Assetra-Project/AssetraLanding-Page/blob/main/assetra.jpg)
 **Tokenize. Simplify. Invest.**  
 *A project powered by Hedera*
 
