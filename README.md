@@ -4,6 +4,7 @@
 *A project powered by Hedera*
 
 Assetra is a decentralized Central Securities Depository that empowers users to securely fractionalize their bonds and equities into tradable security tokens through smart contracts. These partitions can then be placed on public exchanges to be traded, e.g., Nairobi Securities Exchange, enabling investors to purchase fractions of a bond.
+
 By lowering the barrier to entry, these tokenized bonds can be accessed by a global pool of investors, democratizing access, and allowing owners to tap into a broader market where they can sell the bonds at a higher price compared to the bond's nominal value to generate profits
 
 
