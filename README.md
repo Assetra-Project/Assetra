@@ -1,5 +1,5 @@
 <div align = "center">
-#Assetra 
+
 
   ![image alt](https://github.com/Assetra-Project/AssetraLanding-Page/blob/main/assetra.jpg)
 </div>
