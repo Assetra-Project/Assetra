@@ -1,7 +1,6 @@
 ---
 # 🪙 Assetra
 ---
-![image](https://github.com/user-attachments/assets/98dc32c9-ab5e-4252-8c7e-1cd3dfd824f1)---
 
 
 **Tokenize. Simplify. Invest.**  
@@ -99,7 +98,7 @@ Built with ❤️ by the Assetra Team:
 
 Janice Gathoga
 
-Simon Murray
+Simon Githae
 
 Feel free to fork, build on, or contribute!
 
