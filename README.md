@@ -1,17 +1,39 @@
 ---
 # 🪙 Assetra
 ---
+<div align = "center">
 
+  ![image alt](https://github.com/Assetra-Project/AssetraLanding-Page/blob/main/assetra3.jpg)
+</div>
+<div align = "center">
 
-**Tokenize. Simplify. Invest.**  
+## **Tokenize. Simplify. Invest.**  
 *A project powered by Hedera*
+</div>
 
+# 📜 Overview
 Assetra is a decentralized Central Securities Depository that empowers users to securely fractionalize their bonds and equities into tradable security tokens through smart contracts. These partitions can then be placed on public exchanges to be traded, e.g., Nairobi Securities Exchange, enabling investors to purchase fractions of a bond.
 
 By lowering the barrier to entry, these tokenized bonds can be accessed by a global pool of investors, democratizing access, and allowing owners to tap into a broader market where they can sell the bonds at a higher price compared to the bond's nominal value to generate profits
 
+# 🛠️How It Works
+  ## 🦰 Create account by providing your details
+  
+  ![image alt](https://github.com/Assetra-Project/AssetraLanding-Page/blob/main/personaldetails.jpg)
 
----
+  ## 💎 Tokenize you Assets
+  
+   ![image alt](https://github.com/Assetra-Project/AssetraLanding-Page/blob/main/createtoken.jpg)
+
+  ## 💹 Have real time access to your tokenized assets
+  
+  ![image alt](https://github.com/Assetra-Project/AssetraLanding-Page/blob/main/dashboard.jpg)
+
+  ## 💸 List your tokenized assets on public exchanges or purchase existing ones
+ 
+   ![image alt]( https://github.com/Assetra-Project/AssetraLanding-Page/blob/main/listing.jpg)
+
+  ---
 
 ## 🚀 Tech Stack
 
